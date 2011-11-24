@@ -1,0 +1,75 @@
+.commu-tenki-left {
+	border: 1px #666 solid;
+	border-collapse: collapse;
+	margin: 5px 20px 5px 0px;
+	padding: 0px 0px 0px 0px;
+	float: left;
+}
+
+.commu-tenki-center {
+	border: 1px #666 solid;
+	border-collapse: collapse;
+	margin: 20px 20px 5px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+.commu-tenki-th {
+	border: 1px #666 solid;
+	border-collapse: collapse;
+	margin: 0px 0px 0px 0px;
+	padding: 5px 5px 5px 10px;
+}
+
+.commu-tenki-td {
+	border: 1px #666 solid;
+	border-collapse: collapse;
+	margin: 0px 0px 0px 0px;
+	padding: 5px 20px 5px 20px;
+	width: 110px;
+}
+
+.commu-tenki-td2 {
+	border: 1px #666 solid;
+	border-collapse: collapse;
+	margin: 0px 0px 0px 0px;
+	padding: 5px 15px 5px 15px;
+	width: 55px;
+}
+
+.commu-tenki-td3 {
+	border: 1px #666 solid;
+	border-collapse: collapse;
+	margin: 0px 0px 0px 0px;
+	padding: 5px 15px 5px 15px;
+	width: 55px;
+}
+
+.commu-tenki-clear {
+	clear: both;
+}
+
+.japantenki {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+.japantenki1 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	text-align: center;
+	float: left;
+}
+
+.japantenki2 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 12px 0px 12px;
+	text-align: center;
+	float: left;
+}
+
+.japantenki3 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	text-align: center;
+	float: left;
+}
